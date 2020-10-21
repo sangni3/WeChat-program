@@ -2,14 +2,14 @@
 
 ## 一.主页面
 
-![image-20201021180651712](C:\Users\12\AppData\Roaming\Typora\typora-user-images\image-20201021180651712.png)
+![image-20201021180651712](\image-20201021180651712.png)
 
 点击买卖图标跳转详情页面
 
 ## 二.发布
 
-![image-20201021180842789](C:\Users\12\AppData\Roaming\Typora\typora-user-images\image-20201021180842789.png)
+![image-20201021180842789](image-20201021180842789.png)
 
 ## 三.搜索页面
 
-![image-20201021180953020](C:\Users\12\AppData\Roaming\Typora\typora-user-images\image-20201021180953020.png)
+![image-20201021180953020](\image-20201021180953020.png)
